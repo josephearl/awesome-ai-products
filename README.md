@@ -70,7 +70,7 @@ A list of awesome AI products and services.
 * [Cogram](https://www.cogram.com/) - Automatically capture notes and action items from virtual meetings
 * [Sembly AI](https://www.sembly.ai/) - Record, transcribe and generate smart meeting summaries from virtual meetings
 * [Avoma](https://www.avoma.com) - AI meeting lifecycle assistant
-* [Fireflies.ai]https://fireflies.ai - AI note taker and conversation analyzer
+* [Fireflies.ai](https://fireflies.ai) - AI note taker and conversation analyzer
 
 ## HR
 
