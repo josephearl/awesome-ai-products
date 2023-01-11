@@ -39,6 +39,7 @@ A list of awesome AI products and services.
 * [Midjourney](https://www.midjourney.com/) - AI image generator
 * [DALL·E 2](https://openai.com/dall-e-2/) - AI image generator
 * [Stable Diffusion](https://stablediffusionweb.com) - AI image generator
+* [Lensa](https://prisma-ai.com/lensa) - AI enhanced photo and video editing
 
 ## Code
 
