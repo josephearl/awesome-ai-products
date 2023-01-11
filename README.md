@@ -5,20 +5,25 @@ A list of awesome AI products and services.
 ## Contents
 
 * [Miscellaneous](#miscellaneous)
+* [Search](#search)
 * [Writing](#writing)
 * [Art](#art)
-* [Programming](#programming)
+* [Code](#code)
 * [Speech](#speech)
 * [Video](#video)
 * [Transcription](#transcription)
 * [Translation](#translation)
 * [Meetings](#meetings)
-* [HR](#hr)
+* [Recruitment](#recruitment)
 * [Legal](#legal)
 
 ## Miscellaneous
 
 * [ChatGPT](https://chat.openai.com/chat)
+
+## Search
+
+* [Neeva](https://neeva.com) - AI powered web search
 
 ## Writing
 
@@ -35,7 +40,7 @@ A list of awesome AI products and services.
 * [DALL·E 2](https://openai.com/dall-e-2/) - AI image generator
 * [Stable Diffusion](https://stablediffusionweb.com) - AI image generator
 
-## Programming
+## Code
 
 * [GitHub Copilot](https://github.com/features/copilot) - AI pair programmer
 * [Codeball](https://codeball.ai) - AI code reviewer
@@ -72,7 +77,7 @@ A list of awesome AI products and services.
 * [Avoma](https://www.avoma.com) - AI meeting lifecycle assistant
 * [Fireflies.ai](https://fireflies.ai) - AI note taker and conversation analyzer
 
-## HR
+## Recruitment
 
 * [Skillate](https://www.skillate.com) - AI recruitment platform
 * [Entelo](https://www.entelo.com) - AI talent acquisition
