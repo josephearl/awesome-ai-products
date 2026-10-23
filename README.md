@@ -20,6 +20,7 @@ A list of awesome AI products and services.
 ## Miscellaneous
 
 * [ChatGPT](https://chat.openai.com/chat)
+* [WSUP AI](https://wsupai.app/) - Free AI character chat in the browser, no sign up (SFW only)
 
 ## Search
 
