@@ -37,6 +37,8 @@ A list of awesome AI products and services.
 
 ## Art
 
+* [TeslaWraps](https://teslawraps.design) - Free browser Tesla wrap designer (core edit + PNG free; optional AI credits)
+* [PromptImage](https://promptimage.cloud) - Free AI image & video studio with prompt library
 * [Midjourney](https://www.midjourney.com/) - AI image generator
 * [DALL·E 2](https://openai.com/dall-e-2/) - AI image generator
 * [Stable Diffusion](https://stablediffusionweb.com) - AI image generator
@@ -56,6 +58,10 @@ A list of awesome AI products and services.
 
 ## Video
 
+* [GrokVideo Studio](https://grokvideogenerator.dev) - Independent AI text/image-to-video studio (not official xAI/X)
+* [Alors On Danse Video Maker](https://alorsondansevideo.com) - Independent AI: two photos → 13s studio dance video (Paid). Not affiliated with Stromae/TikTok
+* [Bad Times AI](https://badtimesai.dev) - Independent AI dance effect: one photo → 14–15s portrait dance video (Paid from $7.99)
+* [I Found You in the Crowd AI](https://ifoundyouinthecrowdai.com) - Independent AI scene effect: two photos → balcony/spotlight meeting video (Paid from $7.99)
 * [Synthesys](https://synthesys.io) - AI avatars and voice overs
 * [Synthesia](https://www.synthesia.io) - AI avatars and voice overs
 * [D-ID](https://www.d-id.com) - AI avatars and voice overs
