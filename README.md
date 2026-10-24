@@ -62,6 +62,9 @@ A list of awesome AI products and services.
 * [Alors On Danse Video Maker](https://alorsondansevideo.com) - Independent AI: two photos → 13s studio dance video (Paid). Not affiliated with Stromae/TikTok
 * [Bad Times AI](https://badtimesai.dev) - Independent AI dance effect: one photo → 14–15s portrait dance video (Paid from $7.99)
 * [I Found You in the Crowd AI](https://ifoundyouinthecrowdai.com) - Independent AI scene effect: two photos → balcony/spotlight meeting video (Paid from $7.99)
+* [KDA Firestarter AI Dance](https://kdafirestarterai.dev) - Independent unofficial AI: one photo → 13s solo dance video (Paid from $7.99). Not affiliated with Riot Games or K/DA
+* [A2O LITE NEON AI Dance](https://a2oliteai.org) - Independent AI: two photos → 15s neon duo dance with reference soundtrack (Paid from $7.99)
+* [dime dime baby ai](https://dimedimebabyai.dev) - Independent AI: one photo → ~5s 9:16 AI dance (Quince Classic or Party Groove) (Paid from $7.99)
 * [Synthesys](https://synthesys.io) - AI avatars and voice overs
 * [Synthesia](https://www.synthesia.io) - AI avatars and voice overs
 * [D-ID](https://www.d-id.com) - AI avatars and voice overs
