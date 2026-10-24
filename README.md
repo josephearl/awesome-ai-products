@@ -37,6 +37,8 @@ A list of awesome AI products and services.
 
 ## Art
 
+* [TeslaWraps](https://teslawraps.design) - Free browser Tesla wrap designer (core edit + PNG free; optional AI credits)
+* [PromptImage](https://promptimage.cloud) - Free AI image & video studio with prompt library
 * [Midjourney](https://www.midjourney.com/) - AI image generator
 * [DALL·E 2](https://openai.com/dall-e-2/) - AI image generator
 * [Stable Diffusion](https://stablediffusionweb.com) - AI image generator
@@ -56,6 +58,7 @@ A list of awesome AI products and services.
 
 ## Video
 
+* [GrokVideo Studio](https://grokvideogenerator.dev) - Independent AI text/image-to-video studio (not official xAI/X)
 * [Synthesys](https://synthesys.io) - AI avatars and voice overs
 * [Synthesia](https://www.synthesia.io) - AI avatars and voice overs
 * [D-ID](https://www.d-id.com) - AI avatars and voice overs
