@@ -59,6 +59,9 @@ A list of awesome AI products and services.
 ## Video
 
 * [GrokVideo Studio](https://grokvideogenerator.dev) - Independent AI text/image-to-video studio (not official xAI/X)
+* [Alors On Danse Video Maker](https://alorsondansevideo.com) - Independent AI: two photos → 13s studio dance video (Paid). Not affiliated with Stromae/TikTok
+* [Bad Times AI](https://badtimesai.dev) - Independent AI dance effect: one photo → 14–15s portrait dance video (Paid from $7.99)
+* [I Found You in the Crowd AI](https://ifoundyouinthecrowdai.com) - Independent AI scene effect: two photos → balcony/spotlight meeting video (Paid from $7.99)
 * [Synthesys](https://synthesys.io) - AI avatars and voice overs
 * [Synthesia](https://www.synthesia.io) - AI avatars and voice overs
 * [D-ID](https://www.d-id.com) - AI avatars and voice overs
