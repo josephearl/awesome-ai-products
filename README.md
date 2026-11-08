@@ -21,6 +21,7 @@ A list of awesome AI products and services.
 
 * [ChatGPT](https://chat.openai.com/chat)
 * [WSUP AI](https://wsupai.app/) - Free AI character chat in the browser, no sign up (SFW only)
+* [objekto.io](https://objekto.io/en) - AI designs a multi-part 3D-printable object from a few words, a photo or a sketch, then has it printed and delivered (France only)
 
 ## Search
 
