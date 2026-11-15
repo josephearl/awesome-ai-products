@@ -20,6 +20,7 @@ A list of awesome AI products and services.
 ## Miscellaneous
 
 * [ChatGPT](https://chat.openai.com/chat)
+* [Sammi: AI Girlfriend](https://sammiai.app/) - Android fictional character chat with voice interaction, customization and creative roleplay; free download with in-app purchases.
 * [WSUP AI](https://wsupai.app/) - Free AI character chat in the browser, no sign up (SFW only)
 
 ## Search
